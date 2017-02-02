@@ -23,17 +23,17 @@ $INSBASE
   9
 $EXTMIN
  10
--0.5
+10000000000
  20
-0.25
+10000000000
  30
 0
   9
 $EXTMAX
  10
-419.5
+-10000000000
  20
-297.25
+-10000000000
  30
 0
   9
@@ -91,7 +91,7 @@ STANDARD
   9
 $CLAYER
   8
-schematic
+labels
   9
 $CELTYPE
   6
@@ -1115,9 +1115,9 @@ AcDbViewportTableRecord
  21
 1
  12
-237.0183598531212
+227.0232868868105
  22
-150.3176254589963
+150.5618438633327
  13
 0
  23
@@ -1143,7 +1143,7 @@ AcDbViewportTableRecord
  37
 0
  40
-304.2705018359853
+304.0295857988166
  41
 1.73715651135006
  42
@@ -8873,9 +8873,741 @@ standard
  44
 1
   0
-MTEXT
+INSERT
   5
 114
+100
+AcDbEntity
+  8
+schematic
+  6
+ByLayer
+ 62
+  256
+370
+   -1
+100
+AcDbBlockReference
+  2
+Terminal-in-0
+ 10
+60
+ 20
+250
+ 30
+0
+ 41
+1
+ 42
+1
+ 43
+0
+ 50
+180
+ 70
+    1
+ 71
+    1
+ 44
+0
+ 45
+0
+  0
+INSERT
+  5
+115
+100
+AcDbEntity
+  8
+schematic
+  6
+ByLayer
+ 62
+  256
+370
+   -1
+100
+AcDbBlockReference
+  2
+Terminal-in-0
+ 10
+160
+ 20
+250
+ 30
+0
+ 41
+1
+ 42
+1
+ 43
+0
+ 50
+180
+ 70
+    1
+ 71
+    1
+ 44
+0
+ 45
+0
+  0
+INSERT
+  5
+116
+100
+AcDbEntity
+  8
+schematic
+  6
+ByLayer
+ 62
+  256
+370
+   -1
+100
+AcDbBlockReference
+  2
+Terminal-Earth
+ 10
+60
+ 20
+190
+ 30
+0
+ 41
+1
+ 42
+1
+ 43
+0
+ 50
+0
+ 70
+    1
+ 71
+    1
+ 44
+0
+ 45
+0
+  0
+LINE
+  5
+117
+100
+AcDbEntity
+  8
+schematic
+  6
+ByLayer
+ 62
+  256
+370
+   -1
+100
+AcDbLine
+ 10
+160
+ 20
+236
+ 11
+160
+ 21
+230
+  0
+LINE
+  5
+118
+100
+AcDbEntity
+  8
+schematic
+  6
+ByLayer
+ 62
+  256
+370
+   -1
+100
+AcDbLine
+ 10
+160
+ 20
+230
+ 11
+60
+ 21
+230
+  0
+LINE
+  5
+119
+100
+AcDbEntity
+  8
+schematic
+  6
+ByLayer
+ 62
+  256
+370
+   -1
+100
+AcDbLine
+ 10
+60
+ 20
+230
+ 11
+60
+ 21
+236
+  0
+LINE
+  5
+11A
+100
+AcDbEntity
+  8
+schematic
+  6
+ByLayer
+ 62
+  256
+370
+   -1
+100
+AcDbLine
+ 10
+60
+ 20
+190
+ 11
+60
+ 21
+224
+  0
+LINE
+  5
+11B
+100
+AcDbEntity
+  8
+schematic
+  6
+ByLayer
+ 62
+  256
+370
+   -1
+100
+AcDbLine
+ 10
+60
+ 20
+224
+ 11
+63
+ 21
+224
+  0
+LINE
+  5
+11C
+100
+AcDbEntity
+  8
+schematic
+  6
+ByLayer
+ 62
+  256
+370
+   -1
+100
+AcDbLine
+ 10
+63
+ 20
+224
+ 11
+60
+ 21
+228
+  0
+LINE
+  5
+11D
+100
+AcDbEntity
+  8
+schematic
+  6
+ByLayer
+ 62
+  256
+370
+   -1
+100
+AcDbLine
+ 10
+60
+ 20
+228
+ 11
+57
+ 21
+224
+  0
+LINE
+  5
+11E
+100
+AcDbEntity
+  8
+schematic
+  6
+ByLayer
+ 62
+  256
+370
+   -1
+100
+AcDbLine
+ 10
+57
+ 20
+224
+ 11
+60
+ 21
+224
+  0
+INSERT
+  5
+11F
+100
+AcDbEntity
+  8
+labels
+  6
+ByLayer
+ 62
+  256
+370
+   -1
+100
+AcDbBlockReference
+  2
+Terminal-Earth
+ 10
+53
+ 20
+243
+ 30
+0
+ 41
+0.5
+ 42
+0.5
+ 43
+0
+ 50
+0
+ 70
+    1
+ 71
+    1
+ 44
+0.5
+ 45
+0.5
+  0
+MTEXT
+  5
+120
+100
+AcDbEntity
+  8
+labels
+  6
+ByLayer
+ 62
+  256
+370
+   -1
+100
+AcDbMText
+ 10
+151
+ 20
+241
+ 30
+0
+ 40
+4
+ 41
+5.777777777777778
+ 71
+    2
+ 72
+    1
+  1
+TN
+  7
+standard
+210
+0
+220
+0
+230
+1
+ 50
+0
+ 73
+    2
+ 44
+1
+  0
+LINE
+  5
+121
+100
+AcDbEntity
+  8
+labels
+  6
+ByLayer
+ 62
+  256
+370
+   -1
+100
+AcDbLine
+ 10
+170
+ 20
+230
+ 11
+170
+ 21
+233
+  0
+LINE
+  5
+122
+100
+AcDbEntity
+  8
+labels
+  6
+ByLayer
+ 62
+  256
+370
+   -1
+100
+AcDbLine
+ 10
+170
+ 20
+233
+ 11
+166
+ 21
+230
+  0
+LINE
+  5
+123
+100
+AcDbEntity
+  8
+labels
+  6
+ByLayer
+ 62
+  256
+370
+   -1
+100
+AcDbLine
+ 10
+166
+ 20
+230
+ 11
+170
+ 21
+227
+  0
+LINE
+  5
+124
+100
+AcDbEntity
+  8
+labels
+  6
+ByLayer
+ 62
+  256
+370
+   -1
+100
+AcDbLine
+ 10
+170
+ 20
+227
+ 11
+170
+ 21
+230
+  0
+MTEXT
+  5
+125
+100
+AcDbEntity
+  8
+labels
+  6
+ByLayer
+ 62
+  256
+370
+   -1
+100
+AcDbMText
+ 10
+80
+ 20
+210
+ 30
+0
+ 40
+3
+ 41
+30.91666539465395
+ 71
+    2
+ 72
+    1
+  1
+COLLEGAMENTO\PAL DISPERSORE
+  7
+standard
+210
+0
+220
+0
+230
+1
+ 50
+0
+ 73
+    2
+ 44
+1
+  0
+LINE
+  5
+126
+100
+AcDbEntity
+  8
+labels
+  6
+ByLayer
+ 62
+  256
+370
+   -1
+100
+AcDbLine
+ 10
+170
+ 20
+230
+ 11
+190
+ 21
+230
+  0
+LINE
+  5
+127
+100
+AcDbEntity
+  8
+labels
+  6
+ByLayer
+ 62
+  256
+370
+   -1
+100
+AcDbLine
+ 10
+190
+ 20
+230
+ 11
+190
+ 21
+214
+  0
+MTEXT
+  5
+128
+100
+AcDbEntity
+  8
+labels
+  6
+ByLayer
+ 62
+  256
+370
+   -1
+100
+AcDbMText
+ 10
+100
+ 20
+170
+ 30
+0
+ 40
+3
+ 41
+199.9999974559747
+ 71
+    1
+ 72
+    1
+  3
+\PPROVE DI ISOLAMENTO:\P\P\PPORTARE LA CABINA FUORI PIANO CON PORTE CHIUSE\PTOGLIERE TENSIONE AL QUADRO ED ATTENDERE UN MINUTO\PSTACCARE I CONNETTORI DELLA SCHEDA SIGLATI : A - B - C\P___ VEDI LAYOUT DELLA SCHEDA ___\P\P\PNEL QUADRO SONO PRESENTI 1 M
+  3
+ORSETTO GIALLO/VERDE DI TERRA NON ISOLATO DALL'AR-\PMADIO E 1 MORSETTO "TN" ISOLATO DALL'ARMADIO.\PSUL MORSETTO GIALLO/VERDE SONO COLLEGATI NELLA PARTE SUPERIORE IL FILO DI TERRA DEL\PREGOLATORE MOTORE SE PRESENTE E NELLA PARTE INFERIORE IL FILO PROV
+  3
+ENIENTE DAL DIS-\PPERSORE DI TERRA DELL'IMPIANTO ED UN PONTE TRA QUESTO MORSETTO ED IL "TN".\PSTACCARE QUESTO PONTE DAL LATO DI "TN"E COLLEGARE LO STRUMENTO TRA QUESTO FILO\PED I VARI CIRCUITI DA TESTARE (COME SPECIFICATO NEL FOGLIO "PROVE DI ISOLAME
+  1
+NTO").\PNELLA PARTE SUPERIORE DI "TN" SONO COLLEGATI TUTTI I FILI DI TERRA DEL QUADRO.\P
+  7
+standard
+210
+0
+220
+0
+230
+1
+ 50
+0
+ 73
+    2
+ 44
+1
+  0
+MTEXT
+  5
+129
+100
+AcDbEntity
+  8
+labels
+  6
+ByLayer
+ 62
+  256
+370
+   -1
+100
+AcDbMText
+ 10
+85.6163265306123
+ 20
+236.0032653061226
+ 30
+0
+ 40
+4
+ 41
+42.99999915199141
+ 71
+    1
+ 72
+    1
+  1
+PONTE ESTERNO
+  7
+standard
+210
+0
+220
+0
+230
+1
+ 50
+0
+ 73
+    2
+ 44
+1
+  0
+MTEXT
+  5
+12A
+100
+AcDbEntity
+  8
+labels
+  6
+ByLayer
+ 62
+  256
+370
+   -1
+100
+AcDbMText
+ 10
+190
+ 20
+210
+ 30
+0
+ 40
+3
+ 41
+62.33333269732707
+ 71
+    2
+ 72
+    1
+  1
+UTILIZZARE QUESTO FILO\PPER LE PROVE DI ISOLAMENTO\PDOPO AVERLO STACCATO DAL\PMORSETTO "TN"
+  7
+standard
+210
+0
+220
+0
+230
+1
+ 50
+0
+ 73
+    2
+ 44
+1
+  0
+MTEXT
+  5
+12B
 100
 AcDbEntity
   8
@@ -8903,205 +9635,7 @@ AcDbMText
  72
     1
   1
-Schema: MC-OL48\PFoglio: 15 di 17
-  7
-standard
-210
-0
-220
-0
-230
-1
- 50
-0
- 73
-    2
- 44
-1
-  0
-MTEXT
-  5
-115
-100
-AcDbEntity
-  8
-schematic
-  6
-ByLayer
- 62
-  256
-370
-   -1
-100
-AcDbMText
- 10
-30
- 20
-280
- 30
-0
- 40
-10
- 41
-56.66666666666729
- 71
-    1
- 72
-    1
-  1
-LEGENDA
-  7
-standard
-210
-0
-220
-0
-230
-1
- 50
-0
- 73
-    2
- 44
-1
-  0
-MTEXT
-  5
-116
-100
-AcDbEntity
-  8
-schematic
-  6
-ByLayer
- 62
-  256
-370
-   -1
-100
-AcDbMText
- 10
-30
- 20
-260
- 30
-0
- 40
-5
- 41
-31.11111005110036
- 71
-    1
- 72
-    1
-  1
-MORSETTI
-  7
-standard
-210
-0
-220
-0
-230
-1
- 50
-0
- 73
-    2
- 44
-1
-  0
-MTEXT
-  5
-117
-100
-AcDbEntity
-  8
-schematic
-  6
-ByLayer
- 62
-  256
-370
-   -1
-100
-AcDbMText
- 10
-83
- 20
-260
- 30
-0
- 40
-5
- 41
-39.99999893998956
- 71
-    1
- 72
-    1
-  1
-DESCRIZIONE
-  7
-standard
-210
-0
-220
-0
-230
-1
- 50
-0
- 73
-    2
- 44
-1
-  0
-MTEXT
-  5
-118
-100
-AcDbEntity
-  8
-schematic
-  6
-ByLayer
- 62
-  256
-370
-   -1
-100
-AcDbMText
- 10
-30
- 20
-250
- 30
-0
- 40
-3
- 41
-162.8333323639935
- 71
-    1
- 72
-    1
-  3
-1 - 2                  EXTRA CORSA\P2 - 4                  ALT E BOTTONIERA MANUTENZIONE\P4 - 5                  INTER FOSSA\P5 - 6                  ALT CABINA\P6 - 7                  PARACADUTE\P7 - 8                  PRELIMINARI\P8 - 9             
-  3
-     PORTE CABINA(SIA IN BATTENTE CHE IN AUTOMATICO)\P9 - 10                 BLOCCHI\PMA - MB - GND          DEVIATORE MANUTENZIONE\PCB                     COMUNE CHIAMATE CABINA\PCE                     COMUNE CHIAMATE ESTERNE\PUP - DW               
-  3
- PULSANTI ISPEZIONE\PCB -0, CB - 1...       CHIAMATE CABINA (SU SCHEDA PERIFERICA)\PCE -0, CE - 1...       CHIAMATE ESTERNE (SU SCHEDA PERIFERICA)\PGND - FCD              BISTABILE FINE CORSA DISCESA\PGND - FCS              BISTABILE FINE CORSA SALIT
-  3
-A\PGND - ID               INDUTTORE CONTEGGIO DISCESA\PGND - IS               INDUTTORE CONTEGGIO SALITA\PGND - IP1, GND - IP2   INDUTTORI CABINA AL PIANO E ZONA SICUREZZA\PGND - PA               PULSANTE APERTURA PORTE(CON 2 INGRESSI)\PGND - SVR    
-  3
-          CONTATTO SOVRACCARICO\PGND - CM1              COSTOLA-FOTOCELLULA LATO 1\PGND - CM2              COSTOLA-FOTOCELLULA LATO 2\PGND - FM               FONDO MOBILE\PCFC - FA1              CONTATTO FINECORSA APERTURA PORTE LATO 1\PCFC - FC1    
-  3
-          CONTATTO FINECORSA CHIUSURA PORTE LATO 1\PCFC - FA2              CONTATTO FINECORSA APERTURA PORTE LATO 2\PCFC - FC2              CONTATTO FINECORSA CHIUSURA PORTE LATO 2\PCL - 0, CL - 1...      SEGNALAZIONE POSIZIONE (SU PERIF QUADRO)\PCL 
-  3
-- FS                SEGNALAZIONE FRECCIA SALITA\PCL - FD                SEGNALAZIONE FRECCIA DISCESA\PCL - SV                SEGNALAZIONE SOVRACCARICO\PCL - GON               SEGANALZIONE GONG IN CABINA\PCL - OCC               SEGANALAZIONE OCCUPATO\
-  1
-PPE                     RITORNO PRESENTE\PPR+ - PR-              PATTINO RETRATTILE\PCL - PE                ALIMENTAZIONE FOTOCELLULE\P
+Schema: MC-OL48\PFoglio: 15 di 18
   7
 standard
 210
