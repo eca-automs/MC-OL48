@@ -30,6 +30,7 @@ AP1 - AP2              RELÈ APERTURA
 CP1 - CP2              RELÈ CHIUSURA
 RSS                    RELÈ SICUREZZA
 TM - TM1 - TM2         RELÈ TENSIONE MANOVRA
+RBL                    RELÈ CONTROLLO ALLARME PORTE APERTE
 
 RD1                    RADDRIZZATORE MANOVRA
 RD2                    RADDRIZZATORE LUMINOSE
