@@ -1117,7 +1117,7 @@ AcDbViewportTableRecord
  12
 237.2001223990209
  22
-149.7723378212975
+149.9541003671971
  13
 0
  23
@@ -1143,9 +1143,9 @@ AcDbViewportTableRecord
  37
 0
  40
-304.2705018359854
+314.4492044063649
  41
-1.73715651135006
+1.680924855491329
  42
 50
  43
@@ -2401,7 +2401,7 @@ AcDbSymbolTableRecord
 100
 AcDbTextStyleTableRecord
   2
-iso
+standard
  70
     0
  40
@@ -2415,7 +2415,7 @@ iso
  42
 1
   3
-iso
+standard
   4
 
   0
@@ -2429,7 +2429,7 @@ AcDbSymbolTableRecord
 100
 AcDbTextStyleTableRecord
   2
-standard
+iso
  70
     0
  40
@@ -2443,7 +2443,7 @@ standard
  42
 1
   3
-standard
+iso
   4
 
   0
@@ -9100,8 +9100,12 @@ IFERICA\PL1307                  SCHEDA LEGGE 13\PSMS-START              SOFT-STA
  TELERUTTORE SALITA\PPV                     RELÈ BASSA VELOCITÀ\PRP                     RELÈ PATTINO\PAP1 - AP2              RELÈ APERTURA\PCP1 - CP2              RELÈ CHIUSURA\PRSS                    RELÈ SICUREZZA\PTM - TM1 - TM2         REL�
   3
 � TENSIONE MANOVRA\PRBL                    RELÈ CONTROLLO ALLARME PORTE APERTE\P\PRD1                    RADDRIZZATORE MANOVRA\PRD2                    RADDRIZZATORE LUMINOSE\PRD4                    RADDRIZZATORE PATTINO\PRD5                    RADDR
+  3
+IZZATORE PORTE LATO1\PRD6                    RADDRIZZATORE PORTE LATO2\P\PIS                     INDUTTORE N.O. CONTEGGIO SALITA E FERMATA\PID                     INDUTTORE N.O. CONTEGGIO DISCESA E FERMATA\PFCS                    BISTABILE FINECORSA 
+  3
+SALITA\PFCD                    BISTABILE FINECORSA DISCESA\PIP1 - IP2              INDUTTORE DOPPIO N.O. ZONA DI SICUREZZA\PIAL                    INDUTTORE N.C. ALLARME PORTE APERTE FUORI PIANO\PIAX                    INDUTTORE N.O. PER FERMATA PIAN
   1
-IZZATORE PORTE LATO1\PRD6                    RADDRIZZATORE PORTE LATO2\P
+O ESTREMO CORTO\P
   7
 standard
 210
