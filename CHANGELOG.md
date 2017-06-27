@@ -1,3 +1,12 @@
+<a name="0.0.5"></a>
+## 0.0.5 (2017-06-27)
+
+* added .gitlab dir ([daa5d8b](https://gitlab.com/eca-automs/schematics/MC-OL48/commit/daa5d8b))
+* Changelog, License, Standard template ([5b8b297](https://gitlab.com/eca-automs/schematics/MC-OL48/commit/5b8b297))
+* Multiple Fix ([8cc46d7](https://gitlab.com/eca-automs/schematics/MC-OL48/commit/8cc46d7))
+
+
+
 <a name="0.0.4"></a>
 ## 0.0.4 (2017-02-25)
 
