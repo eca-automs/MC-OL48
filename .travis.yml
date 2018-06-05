@@ -22,7 +22,7 @@ branches:
 deploy:
   - provider: s3
     skip_cleanup: true
-    upload-dir: MC-FAL10A
+    upload-dir: MC-OL48
     local_dir: ecadoc
     bucket: "$PRODUCTION_BUCKET"
     region: "$AWS_REGION"

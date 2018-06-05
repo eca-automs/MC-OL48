@@ -1,18 +1,3 @@
-<a name="0.0.5"></a>
-## <small>0.0.5 (2018-06-05)</small>
-
-* added .gitlab dir ([daa5d8b](https://github.com/eca-automs/MC-OL48/commit/daa5d8b))
-* Changelog, License, Standard template ([5b8b297](https://github.com/eca-automs/MC-OL48/commit/5b8b297))
-* deps lock ([f9e9f19](https://github.com/eca-automs/MC-OL48/commit/f9e9f19))
-* Fix changelog ([16bcf7e](https://github.com/eca-automs/MC-OL48/commit/16bcf7e))
-* Multiple Fix ([8cc46d7](https://github.com/eca-automs/MC-OL48/commit/8cc46d7))
-* Remove travis->rocketchat notifications for now ([0b5fa64](https://github.com/eca-automs/MC-OL48/commit/0b5fa64))
-* Set up publishing artifacts and scripts ([97574e3](https://github.com/eca-automs/MC-OL48/commit/97574e3))
-* Version v0.0.5 ([f657eb8](https://github.com/eca-automs/MC-OL48/commit/f657eb8))
-* feat(MORSETTI): aumenta larghezza etichetta armadio ([cc6f4ba](https://github.com/eca-automs/MC-OL48/commit/cc6f4ba))
-
-
-
 <a name="0.0.4"></a>
 ## <small>0.0.4 (2017-02-25)</small>
 
@@ -74,6 +59,3 @@
 * sistemato collegamento bobina RL1 pagina#8, aggiunto F9 pagina#9 ([a2cb3b7](https://github.com/eca-automs/MC-OL48/commit/a2cb3b7)), closes [pagina#8](https://github.com/pagina/issues/8) [pagina#9](https://github.com/pagina/issues/9)
 * sostituito relè sicurezza vecchio con nuovo ([8517d66](https://github.com/eca-automs/MC-OL48/commit/8517d66))
 * Update README.md ([7be97d6](https://github.com/eca-automs/MC-OL48/commit/7be97d6))
-
-
-
